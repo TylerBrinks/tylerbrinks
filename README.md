@@ -1,7 +1,7 @@
 #Hi there, I'm Tyler 👋
-👔 I'm a Solution Architect, Senior Software Developer, and love all things cloud, web, mobile, & data
+👔 I'm a Solution Architect, Senior Software Developer, and love all things cloud, web, mobile, & big data
 🌍 I'm based in Denver, Colorado
-💬 Ask me about .NET Core, and EF Core, DevOps, Azure, AWS, and Big Data
+💬 I'm a solution architect and, full stack developer with 20 years professional experience. I specialise in teaching building enterprise applications using .NET, React, Azure and AWS.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tyler-brinks-0a92034/) 
