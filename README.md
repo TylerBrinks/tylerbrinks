@@ -1,4 +1,4 @@
-#Hi there, I'm Tyler 👋
+# Hi there, I'm Tyler 👋
 
 👔 I'm a Solution Architect, Senior Software Developer, and love all things cloud, web, mobile, & big data
 
